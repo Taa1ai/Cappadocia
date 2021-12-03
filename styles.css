@@ -1,0 +1,273 @@
+@import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Great+Vibes&family=Roboto+Condensed&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+.start {
+    background: url(./Rectangle\ 43.png);
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+    padding-left: 150px;
+
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ul, li {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+.menu {
+    display: flex;
+}
+.menu li a {
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 0,1em;
+}
+.menu li a:hover {
+	border-bottom: 1px solid  #000000;
+    ;
+}
+.menu li {
+    margin-top: 80px;
+    padding: 0px 40px;
+    
+
+}
+#tel {
+    margin-left: 350px;
+}
+
+#cc {
+    font-family: 'Fleur De Leah', cursive;
+    font-size: 250px;
+    padding-top: 130px; 
+    padding-left: 100px;
+
+}
+#p_1 {
+    font-size: 40px;
+    padding-left: 650px; 
+    margin-top: -70px;
+    
+}
+#p_f{
+    font-size: 90px;
+    color: #E2AB3F;
+    font-family: 'Fleur De Leah', cursive;
+    margin-left: 350px;
+    margin-top: 150px;
+}
+#b_p{
+    font-size: 18px;
+    margin-left: 520px;
+    margin-top: -60px;
+}
+.carousel{ 
+    width: 900px;
+    height: 600px;
+    margin-top: 150px;
+    
+}  
+.text{
+    margin-left: 80px;
+    width: 50%;
+    margin-top: 160px;
+    font-size: 14px;
+}
+.first_section{
+    display: flex;
+}
+#our{
+    font-family: 'Fleur De Leah', cursive;
+    color: #E2AB3F;
+    font-size: 90px;
+    margin-left: 350px;
+    margin-top: 200px;
+}
+#map{
+    font-size: 18px;
+    margin-left: 555px;
+    margin-top: -60px;
+}
+.two_section{
+    display: flex;
+
+}
+
+.ss_section{
+    margin-left: 350px;
+    margin-top: 90px;
+
+ }  
+ .carouselslide{
+     width: 750px;
+     height: 0px;
+     margin-left: 210px;
+     margin-top: -135px;
+ }
+ #hotel{
+    font-family: 'Fleur De Leah', cursive;
+    color: #E2AB3F;
+    font-size: 90px;
+    margin-left: 350px;
+    margin-top: 200px; 
+ }
+ #sultan{
+    font-size: 18px;
+    margin-left: 490px;
+    margin-top: -60px; 
+ }
+ #big{
+    margin-top: 80px;
+    margin-left: 200px;
+ }
+ .sec_text{
+    display: flex;
+ }
+ .tt_text{
+    margin-left: 80px;
+    width: 50%;
+    margin-top: 80px;
+    font-size: 15px;
+ }
+ #one{
+    margin-top: 40px;
+ }
+ #two{
+    margin-top: 40px;
+    margin-left: 30px;
+ }
+ #three{
+    margin-top: 45px;
+ }
+ #four{
+    margin-top: 45px;
+    margin-left: 30px;
+ }
+ #price{
+    font-family: 'Fleur De Leah', cursive;
+    color: #E2AB3F;
+    font-size: 90px;
+    margin-left: 350px;
+    margin-top: 200px; 
+ }
+ #money{
+    font-size: 18px;
+    margin-left: 450px;
+    margin-top: -60px 
+ }
+.end{
+    margin-left: 200px;
+    margin-top: 90px;
+    
+}
+.ta{
+    margin-left: 800px;
+    margin-top: -310px;
+}
+#z{
+    margin-left: 400px;    
+    margin-top: -350px;
+}
+#d{
+    margin-left: 500px;
+    margin-top: -700px;
+}
+#data{
+    font-family: 'Fleur De Leah', cursive;
+    color: #E2AB3F;
+    font-size: 80px;
+    margin-left: 300px;
+    margin-top: 200px; 
+}
+#tur{
+    font-size: 25px;
+    margin-left: 30%;
+    margin-top: -50px 
+}
+#dolar{
+    font-family: 'Fleur De Leah', cursive;
+    color: #E2AB3F;
+    font-size: 90px;
+    margin-left: 30%;
+    margin-top: 30px; 
+}
+#gg{
+    font-size: 25px;
+    margin-left: 38%;
+    margin-top: -60px  
+}
+#sostav{
+    margin-top: 140px;
+    margin-left: 20%;
+}
+input[type=text] {
+    width: 36%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #E2AB3F;
+    border-radius: 4px;
+}
+.info{
+    margin-left: 19%;
+}
+#btn{
+    margin-left: 5%;
+    width: 320px;
+}
+.four_section{
+    display: flex;
+}
+#rectangle{
+    margin-left: 55%;
+    margin-top: -50%;
+}
+.finishsec{
+    background: url(./kisspng-flight-hot-air-balloon-computer-icons-aerostat-5afe08ad4b2f92\ 2.png)  300px 90px no-repeat,url(./Rectangle\ 42.png) ;
+    
+    background-size:20%, cover;
+    height: 900px;
+    margin-top: 20%;
+}
+
+
+    
+
+
+#dream{
+    font-family: 'Fleur De Leah', cursive;
+    font-size: 95px;
+    margin-left: 50%;
+    padding-top: 200px;
+}
+.contact{
+    text-align: center;
+    margin-right: 50%;
+    margin-top: -14%;
+    padding-left: 12%;
+}
+#wride{
+    font-family: 'Fleur De Leah', cursive;
+    color: #E2AB3F;
+    font-size: 50px;
+}
+#phone_2{
+    margin-left: 24%;
+    margin-top: -11%;
+}
+#mail{
+    margin-left: -4%; 
+    margin-top: -5.5%;
+
+}
+.icon_3{
+    margin-left: 26.7%;
+}
